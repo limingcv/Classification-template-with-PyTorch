@@ -11,5 +11,5 @@ run `tensorboard --logdir runs` to visualize your training process
 
 You can also see the accuracy of each class during training and testing
 
-![/pictures/acc_each_class_train.png]
-![/pictures/acc_each_class_val.png]
+![](/pictures/acc_each_class_train.png)
+![](/pictures/acc_each_class_val.png)
